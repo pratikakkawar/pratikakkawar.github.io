@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Pratik Akkawar</title>
-    <link href="https://pratikakkawar.github.io/pratikakkawar/feed.xml" rel="self" />
-    <link href="https://pratikakkawar.github.io/pratikakkawar" />
+    <link href="https://pratikakkawar.github.io/feed.xml" rel="self" />
+    <link href="https://pratikakkawar.github.io" />
     <updated>2026-08-04T03:37:08+05:30</updated>
     <author>
         <name>pratikakkawar</name>
     </author>
-    <id>https://pratikakkawar.github.io/pratikakkawar</id>
+    <id>https://pratikakkawar.github.io</id>
 
     <entry>
         <title>Testing</title>
         <author>
             <name>pratikakkawar</name>
         </author>
-        <link href="https://pratikakkawar.github.io/pratikakkawar/testing.html"/>
-        <id>https://pratikakkawar.github.io/pratikakkawar/testing.html</id>
+        <link href="https://pratikakkawar.github.io/testing.html"/>
+        <id>https://pratikakkawar.github.io/testing.html</id>
 
         <updated>2026-08-04T03:37:08+05:30</updated>
             <summary type="html">
