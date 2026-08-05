@@ -3,7 +3,7 @@
     <title>Pratik Akkawar</title>
     <link href="https://pratikakkawar.github.io/feed.xml" rel="self" />
     <link href="https://pratikakkawar.github.io" />
-    <updated>2026-08-04T04:09:05+05:30</updated>
+    <updated>2026-08-05T21:15:39+05:30</updated>
     <author>
         <name>pratikakkawar</name>
     </author>
@@ -40,12 +40,12 @@
         <updated>2026-08-04T03:37:08+05:30</updated>
             <summary type="html">
                 <![CDATA[
-                    Testing my site..hello world
+                    Testing my site..hello world how are you
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Testing my site..hello world</p>
+                <p>Testing my site..hello world how are you</p>
             ]]>
         </content>
     </entry>
