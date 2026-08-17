@@ -1,1 +1,0 @@
-# pratikakkawar.github.io
