@@ -3,7 +3,7 @@
     <title>Pratik Akkawar</title>
     <link href="https://pratikakkawar.github.io/feed.xml" rel="self" />
     <link href="https://pratikakkawar.github.io" />
-    <updated>2026-08-18T20:15:15+05:30</updated>
+    <updated>2026-08-21T02:43:59+05:30</updated>
     <author>
         <name>Pratik Akkawar</name>
     </author>
@@ -214,17 +214,20 @@
         </author>
         <link href="https://pratikakkawar.github.io/christopher-robin.html"/>
         <id>https://pratikakkawar.github.io/christopher-robin.html</id>
+        <media:content url="https://pratikakkawar.github.io/media/posts/119/Christopher-Robin.jpg" medium="image" />
             <category term="Thoughts"/>
             <category term="Life"/>
 
         <updated>2019-12-15T19:19:41+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://pratikakkawar.github.io/media/posts/119/Christopher-Robin.jpg" alt="" />
                     It was heartbreaking to see Christopher Robin leaving Winnie the Pooh and other friends behind. He said he had to and he did. He not only stayed far away from them but also forgot about his childhood in the process of growing old. He got&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://pratikakkawar.github.io/media/posts/119/Christopher-Robin.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <p>It was heartbreaking to see Christopher Robin leaving Winnie the Pooh and other friends behind. He said he had to and he did. He not only stayed far away from them but also forgot about his childhood in the process of growing old. He got busy in his adult life so much so that he did not even have time to miss anyone or anything from the past. He never missed his childhood friends either until after 20 years when Winnie the Pooh showed up in his life out of nowhere.</p>
 <p><!-- /wp:paragraph --></p>
